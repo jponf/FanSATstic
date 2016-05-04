@@ -6,7 +6,7 @@ This project is the solution given to a university assignment.
 First it was created for a local search SAT solvers competition.
 But as we are seeing more algorithms these ones are being integrated to the original solver.
 
-All the algorithms are first added as a test version and then are improved step by step.
+All the algorithms are first added as a test version and then improved step by step.
 
 ********************************
 Algorithms and Program Arguments
